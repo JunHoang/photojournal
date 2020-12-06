@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/photojournal/static/css/main.33540dd8.chunk.css",
+    "main.js": "/photojournal/static/js/main.6a04c80b.chunk.js",
+    "main.js.map": "/photojournal/static/js/main.6a04c80b.chunk.js.map",
+    "runtime-main.js": "/photojournal/static/js/runtime-main.d28718b0.js",
+    "runtime-main.js.map": "/photojournal/static/js/runtime-main.d28718b0.js.map",
+    "static/js/2.43be6d34.chunk.js": "/photojournal/static/js/2.43be6d34.chunk.js",
+    "static/js/2.43be6d34.chunk.js.map": "/photojournal/static/js/2.43be6d34.chunk.js.map",
+    "index.html": "/photojournal/index.html",
+    "precache-manifest.81edc34da5e54e788a55c2d906d5622c.js": "/photojournal/precache-manifest.81edc34da5e54e788a55c2d906d5622c.js",
+    "service-worker.js": "/photojournal/service-worker.js",
+    "static/css/main.33540dd8.chunk.css.map": "/photojournal/static/css/main.33540dd8.chunk.css.map",
+    "static/js/2.43be6d34.chunk.js.LICENSE.txt": "/photojournal/static/js/2.43be6d34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d28718b0.js",
+    "static/js/2.43be6d34.chunk.js",
+    "static/css/main.33540dd8.chunk.css",
+    "static/js/main.6a04c80b.chunk.js"
+  ]
+}
